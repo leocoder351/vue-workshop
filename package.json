@@ -1,0 +1,25 @@
+{
+  "name": "vue-workshop",
+  "version": "1.0.0",
+  "description": "Vue高阶练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocoder351/vue-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocoder351/vue-workshop/issues"
+  },
+  "homepage": "https://github.com/leocoder351/vue-workshop#readme",
+  "dependencies": {
+    "jest": "^21.0.1",
+    "jsdom": "^11.2.0",
+    "vue": "^2.4.2"
+  }
+}
